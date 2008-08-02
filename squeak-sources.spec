@@ -3,7 +3,7 @@
 Summary:       Squeak Sources
 Name:          squeak-sources
 Version:       3.9
-Release:       %mkrel 3
+Release:       %mkrel 4
 License:       Free with restrictions (http://www.squeak.org/download/license.html)
 Group:         Development/Other
 Source0:       ftp://st.cs.uiuc.edu/Smalltalk/Squeak/3.0/platform-independent/Squeak%oversion.sources.gz
