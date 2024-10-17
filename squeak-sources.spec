@@ -7,7 +7,7 @@ Release:       %mkrel 5
 License:       Free with restrictions (http://www.squeak.org/download/license.html)
 Group:         Development/Other
 Source0:       ftp://st.cs.uiuc.edu/Smalltalk/Squeak/3.0/platform-independent/Squeak%oversion.sources.gz
-URL:           http://www.squeak.org
+URL:           https://www.squeak.org
 BuildRequires: gzip
 Requires:      squeak-vm >= 3.0
 Requires:      squeak-image >= 3.0.3552
